@@ -12,7 +12,7 @@
 
 # Overview
 
- System Requirements
+Repository for the project *Spatial O-GalNAc glycoproteomics reveals region-specific regulation across the mouse brain*, including scripts used for data pre-/processing and for geerating the central figures.
 
 # Repo Contents
 
