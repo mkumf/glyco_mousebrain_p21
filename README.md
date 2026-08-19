@@ -16,9 +16,9 @@ Repository for the project *Spatial O-GalNAc glycoproteomics reveals region-spec
 
 # Repo Contents
 
-- [preprocessing](./preprocessing): `R`/`Delphi` scripts for data preprocessing, 
+- [preprocessing](./preprocessing): `R`/`Delphi` scripts for data preprocessing. 
 - [processing_plots](./processing_plots): `R` scripts for glycopeptide abundance data processing and for the figures presented in the paper.
-- [manual_glycodb](./man_glycodb): manual for the website associated with the paper, [GlycoDB.org](https://glycodb.org/).
+- [manual_glycodb](./manual_glycodb): manual for the website associated with the paper, [GlycoDB.org](https://glycodb.org/).
 
 # System Requirements
 
@@ -33,8 +33,9 @@ CPU: 2,4 GHz Quad-Core Intel Core i5
 The `R` scripts were run using  
 
 MacOS: Sequoia 15.7.9  
-R: Version 4.5.3 (2026-03-11)  
-RStudio: Version 2026.05.0+218
+RStudio: 2026.05.0+218  
+R: 4.5.3 (2026-03-11)  
+Bioconductor: 3.22
 
 All packages and dependencies were installed from [CRAN](https://cran.r-project.org/web/packages/index.html) respectively [Bioconductor](https://www.bioconductor.org/packages/release/BiocViews.html#___Software) (if available) or directly from GitHub using the respective instructions.
 
