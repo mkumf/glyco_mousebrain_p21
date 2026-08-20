@@ -16,7 +16,7 @@ Repository for the project *Spatial O-GalNAc glycoproteomics reveals region-spec
 
 # Repo Contents
 
-- [preprocessing](./preprocessing): `R`/`Delphi` scripts for data preprocessing. 
+- [preprocessing](./preprocessing): `R`/`Delphi` scripts for data preprocessing, e.g. generation of non glycosylated peptide analogue. 
 - [processing_plots](./processing_plots): `R` scripts for glycopeptide abundance data processing and for the figures presented in the paper.
 - [manual_glycodb](./manual_glycodb): manual for the website associated with the paper, [GlycoDB.org](https://glycodb.org/).
 
